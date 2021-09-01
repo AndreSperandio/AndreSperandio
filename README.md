@@ -5,4 +5,4 @@ Nowadays I'm learning more about JavaScript and working on the front-end part in
  
 Here's my professional contact: andre.sanches.sperandio@gmail.com
 
-:) thanks for reading until here
+:) thanks for reading until here!
